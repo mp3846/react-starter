@@ -2,4 +2,8 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	font-size: 2rem;
+	height: 100vh;
+	background: linear-gradient(#494949,#696969);
+	color: white;
 }

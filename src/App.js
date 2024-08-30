@@ -3,7 +3,7 @@ import styles from './styles/app.module.css'
 
 const App = () =>
 	<div className={styles.container}>
-		App
+		React Starter Template
 	</div>
 
 App.displayName = 'App'
